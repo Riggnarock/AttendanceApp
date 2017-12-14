@@ -2,6 +2,7 @@ package queralt_lluis.attendanceapp;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.Menu;
 
 public class ListActivity extends AppCompatActivity {
 
